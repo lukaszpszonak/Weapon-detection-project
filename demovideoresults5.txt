@@ -1,0 +1,2535 @@
+Loading weights from /mydrive/moje/backup/yolov4-obj_last.weights...
+ seen 64, trained: 1408 K-images (22 Kilo-batches_64) 
+Done! Loaded 162 layers from weights-file 
+video file: /mydrive/moje/Demo/demovid6.mp4
+Video stream: 1080 x 1920 
+Objects:
+
+
+FPS:0.0 	 AVG_FPS:0.0
+Objects:
+
+Man: 83% 
+Rifle: 65% , Shotgun: 60% 
+
+FPS:1.1 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+Man: 91% 
+Rifle: 56% , Shotgun: 41% 
+
+FPS:2.0 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+Man: 72% 
+Rifle: 43% , Shotgun: 32% 
+
+FPS:2.7 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+Man: 69% 
+Rifle: 48% , Shotgun: 30% 
+
+FPS:3.6 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+Man: 70% 
+Rifle: 53% 
+
+FPS:4.6 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+Man: 83% 
+Rifle: 43% 
+
+FPS:5.3 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+Man: 83% 
+Shotgun: 33% 
+Rifle: 50% 
+
+FPS:6.0 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+Man: 77% 
+Rifle: 40% 
+
+FPS:6.5 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+Man: 46% 
+Rifle: 38% 
+
+FPS:7.0 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+Man: 80% 
+Rifle: 33% 
+
+FPS:7.5 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+Man: 51% 
+Shotgun: 36% 
+Rifle: 51% 
+
+FPS:8.1 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+Man: 56% 
+Shotgun: 31% 
+Rifle: 44% 
+
+FPS:8.6 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+Man: 64% 
+Shotgun: 42% 
+Rifle: 46% 
+
+FPS:9.1 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+Man: 78% 
+
+FPS:9.2 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+Man: 66% 
+Shotgun: 36% 
+Rifle: 34% 
+
+FPS:9.6 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+Man: 62% 
+Rifle: 30% 
+
+FPS:9.7 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+Man: 79% 
+Rifle: 30% 
+
+FPS:10.1 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+Man: 76% 
+Rifle: 37% 
+
+FPS:10.3 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+Man: 78% 
+
+FPS:10.6 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+Man: 86% 
+Rifle: 31% 
+
+FPS:11.0 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+Man: 83% 
+Rifle: 34% 
+
+FPS:11.2 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+Man: 86% 
+Rifle: 40% 
+
+FPS:11.5 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+Man: 77% 
+Rifle: 30% 
+
+FPS:11.5 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+Man: 77% 
+Rifle: 32% 
+
+FPS:11.5 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+Man: 81% 
+
+FPS:11.5 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+Man: 79% 
+
+FPS:11.8 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+Man: 72% 
+Rifle: 46% 
+
+FPS:11.8 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+Man: 71% 
+Rifle: 44% 
+
+FPS:11.7 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+Man: 85% 
+Rifle: 34% 
+
+FPS:11.7 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+Man: 85% 
+Rifle: 40% , Shotgun: 31% 
+
+FPS:11.8 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+Man: 80% 
+Rifle: 47% , Shotgun: 38% 
+
+FPS:11.8 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+Man: 79% 
+Rifle: 40% , Shotgun: 37% 
+
+FPS:12.0 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+Man: 70% 
+Rifle: 50% , Shotgun: 48% 
+
+FPS:12.1 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+Man: 85% 
+Rifle: 36% , Shotgun: 34% 
+
+FPS:12.1 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+Man: 54% 
+Rifle: 50% , Shotgun: 41% 
+
+FPS:12.2 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+Man: 66% 
+Rifle: 55% , Shotgun: 47% 
+
+FPS:12.2 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+Man: 53% 
+Shotgun: 31% 
+Rifle: 56% 
+
+FPS:12.3 	 AVG_FPS:12.1
+
+ cvWriteFrame 
+Objects:
+
+Man: 61% 
+Rifle: 51% , Shotgun: 38% 
+
+FPS:12.3 	 AVG_FPS:12.1
+
+ cvWriteFrame 
+Objects:
+
+Man: 75% 
+Rifle: 44% 
+
+FPS:12.4 	 AVG_FPS:12.1
+
+ cvWriteFrame 
+Objects:
+
+Man: 61% 
+Rifle: 55% , Shotgun: 34% 
+
+FPS:12.4 	 AVG_FPS:12.1
+
+ cvWriteFrame 
+Objects:
+
+Man: 39% 
+Rifle: 48% , Shotgun: 32% 
+
+FPS:12.5 	 AVG_FPS:12.1
+
+ cvWriteFrame 
+Objects:
+
+Man: 67% 
+Rifle: 40% 
+
+FPS:12.5 	 AVG_FPS:12.1
+
+ cvWriteFrame 
+Objects:
+
+Man: 59% 
+Rifle: 40% 
+
+FPS:12.5 	 AVG_FPS:12.1
+
+ cvWriteFrame 
+Objects:
+
+Man: 52% 
+Rifle: 39% 
+
+FPS:12.6 	 AVG_FPS:12.1
+
+ cvWriteFrame 
+Objects:
+
+Man: 32% 
+Rifle: 37% 
+
+FPS:12.6 	 AVG_FPS:12.1
+
+ cvWriteFrame 
+Objects:
+
+Rifle: 32% 
+
+FPS:12.6 	 AVG_FPS:12.1
+
+ cvWriteFrame 
+Objects:
+
+Rifle: 36% 
+
+FPS:12.6 	 AVG_FPS:12.1
+
+ cvWriteFrame 
+Objects:
+
+Car: 35% 
+Rifle: 35% 
+
+FPS:12.6 	 AVG_FPS:12.1
+
+ cvWriteFrame 
+Objects:
+
+Man: 50% 
+
+FPS:12.7 	 AVG_FPS:12.1
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:12.7 	 AVG_FPS:12.1
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:12.7 	 AVG_FPS:12.1
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:12.9 	 AVG_FPS:12.1
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:12.7 	 AVG_FPS:12.1
+
+ cvWriteFrame 
+Objects:
+
+Rifle: 35% 
+
+FPS:12.8 	 AVG_FPS:12.1
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:12.9 	 AVG_FPS:12.1
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:13.0 	 AVG_FPS:12.1
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:13.1 	 AVG_FPS:12.1
+
+ cvWriteFrame 
+Objects:
+
+Rifle: 35% 
+
+FPS:13.2 	 AVG_FPS:12.1
+
+ cvWriteFrame 
+Objects:
+
+Rifle: 36% 
+
+FPS:13.3 	 AVG_FPS:12.1
+
+ cvWriteFrame 
+Objects:
+
+Man: 49% 
+Rifle: 34% 
+
+FPS:13.1 	 AVG_FPS:12.1
+
+ cvWriteFrame 
+Objects:
+
+Man: 56% 
+Rifle: 44% , Shotgun: 31% 
+
+FPS:13.1 	 AVG_FPS:12.1
+
+ cvWriteFrame 
+Objects:
+
+Man: 48% 
+Rifle: 43% , Shotgun: 33% 
+
+FPS:13.2 	 AVG_FPS:12.1
+
+ cvWriteFrame 
+Objects:
+
+Man: 60% 
+Rifle: 41% 
+
+FPS:13.0 	 AVG_FPS:12.1
+
+ cvWriteFrame 
+Objects:
+
+Man: 59% 
+Rifle: 37% 
+
+FPS:13.0 	 AVG_FPS:12.1
+
+ cvWriteFrame 
+Objects:
+
+Man: 59% 
+Rifle: 38% 
+
+FPS:12.9 	 AVG_FPS:12.1
+
+ cvWriteFrame 
+Objects:
+
+Man: 75% 
+Rifle: 39% 
+
+FPS:12.7 	 AVG_FPS:12.1
+
+ cvWriteFrame 
+Objects:
+
+Man: 63% 
+Rifle: 34% 
+
+FPS:12.5 	 AVG_FPS:12.1
+
+ cvWriteFrame 
+Objects:
+
+Man: 67% 
+Rifle: 50% , Shotgun: 32% 
+
+FPS:12.7 	 AVG_FPS:12.1
+
+ cvWriteFrame 
+Objects:
+
+Man: 69% 
+Rifle: 38% 
+
+FPS:12.8 	 AVG_FPS:12.1
+
+ cvWriteFrame 
+Objects:
+
+Man: 64% 
+
+FPS:12.6 	 AVG_FPS:12.1
+
+ cvWriteFrame 
+Objects:
+
+Man: 75% 
+Rifle: 37% 
+
+FPS:12.6 	 AVG_FPS:12.1
+
+ cvWriteFrame 
+Objects:
+
+Man: 80% 
+Rifle: 40% 
+
+FPS:12.7 	 AVG_FPS:12.1
+
+ cvWriteFrame 
+Objects:
+
+Man: 84% 
+Rifle: 35% 
+
+FPS:12.9 	 AVG_FPS:12.1
+
+ cvWriteFrame 
+Objects:
+
+Man: 74% 
+Rifle: 48% , Shotgun: 34% 
+
+FPS:13.0 	 AVG_FPS:12.1
+
+ cvWriteFrame 
+Objects:
+
+Man: 77% 
+Rifle: 46% 
+
+FPS:13.1 	 AVG_FPS:12.1
+
+ cvWriteFrame 
+Objects:
+
+Man: 83% 
+Rifle: 52% , Shotgun: 34% 
+
+FPS:13.0 	 AVG_FPS:12.9
+
+ cvWriteFrame 
+Objects:
+
+Man: 82% 
+Rifle: 46% 
+
+FPS:13.1 	 AVG_FPS:12.9
+
+ cvWriteFrame 
+Objects:
+
+Man: 58% 
+Rifle: 39% , Shotgun: 32% 
+
+FPS:13.1 	 AVG_FPS:12.9
+
+ cvWriteFrame 
+Objects:
+
+Man: 66% 
+Rifle: 44% 
+
+FPS:13.0 	 AVG_FPS:12.9
+
+ cvWriteFrame 
+Objects:
+
+Man: 59% 
+Rifle: 39% , Shotgun: 31% 
+
+FPS:13.0 	 AVG_FPS:12.9
+
+ cvWriteFrame 
+Objects:
+
+Man: 61% 
+Rifle: 31% 
+
+FPS:12.9 	 AVG_FPS:12.9
+
+ cvWriteFrame 
+Objects:
+
+Man: 40% 
+Rifle: 41% 
+
+FPS:13.1 	 AVG_FPS:12.9
+
+ cvWriteFrame 
+Objects:
+
+Man: 60% 
+Rifle: 49% 
+
+FPS:13.1 	 AVG_FPS:12.9
+
+ cvWriteFrame 
+Objects:
+
+Man: 30% 
+Rifle: 47% , Shotgun: 32% 
+
+FPS:13.2 	 AVG_FPS:12.9
+
+ cvWriteFrame 
+Objects:
+
+Man: 48% 
+Rifle: 45% , Shotgun: 34% 
+
+FPS:13.2 	 AVG_FPS:12.9
+
+ cvWriteFrame 
+Objects:
+
+Man: 49% 
+Rifle: 56% , Shotgun: 34% 
+
+FPS:13.1 	 AVG_FPS:12.9
+
+ cvWriteFrame 
+Objects:
+
+Man: 37% 
+Rifle: 53% , Shotgun: 30% 
+
+FPS:13.2 	 AVG_FPS:12.9
+
+ cvWriteFrame 
+Objects:
+
+Man: 67% 
+Rifle: 49% 
+
+FPS:13.3 	 AVG_FPS:12.9
+
+ cvWriteFrame 
+Objects:
+
+Man: 47% 
+Rifle: 37% 
+
+FPS:13.4 	 AVG_FPS:12.9
+
+ cvWriteFrame 
+Objects:
+
+Rifle: 54% , Shotgun: 33% 
+
+FPS:13.3 	 AVG_FPS:12.9
+
+ cvWriteFrame 
+Objects:
+
+Rifle: 39% 
+
+FPS:13.3 	 AVG_FPS:12.9
+
+ cvWriteFrame 
+Objects:
+
+Rifle: 56% 
+
+FPS:13.2 	 AVG_FPS:12.9
+
+ cvWriteFrame 
+Objects:
+
+Rifle: 31% 
+
+FPS:13.2 	 AVG_FPS:12.9
+
+ cvWriteFrame 
+Objects:
+
+Rifle: 52% 
+
+FPS:13.1 	 AVG_FPS:12.9
+
+ cvWriteFrame 
+Objects:
+
+Rifle: 59% , Shotgun: 37% 
+
+FPS:13.0 	 AVG_FPS:12.9
+
+ cvWriteFrame 
+Objects:
+
+Man: 38% 
+Rifle: 52% , Shotgun: 30% 
+
+FPS:13.0 	 AVG_FPS:12.9
+
+ cvWriteFrame 
+Objects:
+
+Man: 35% 
+Rifle: 53% , Shotgun: 32% 
+
+FPS:12.9 	 AVG_FPS:12.9
+
+ cvWriteFrame 
+Objects:
+
+Man: 31% 
+Rifle: 55% 
+
+FPS:12.8 	 AVG_FPS:12.9
+
+ cvWriteFrame 
+Objects:
+
+Man: 62% 
+Rifle: 52% 
+
+FPS:12.9 	 AVG_FPS:12.9
+
+ cvWriteFrame 
+Objects:
+
+Man: 37% 
+Rifle: 59% , Shotgun: 35% 
+
+FPS:13.0 	 AVG_FPS:12.9
+
+ cvWriteFrame 
+Objects:
+
+Man: 37% 
+Rifle: 54% , Shotgun: 43% 
+
+FPS:13.0 	 AVG_FPS:12.9
+
+ cvWriteFrame 
+Objects:
+
+Rifle: 44% , Shotgun: 34% 
+
+FPS:13.1 	 AVG_FPS:12.9
+
+ cvWriteFrame 
+Objects:
+
+Rifle: 36% 
+
+FPS:13.0 	 AVG_FPS:12.9
+
+ cvWriteFrame 
+Objects:
+
+Man: 55% 
+Rifle: 48% 
+
+FPS:13.1 	 AVG_FPS:12.9
+
+ cvWriteFrame 
+Objects:
+
+Man: 60% 
+Shotgun: 38% 
+Rifle: 41% 
+
+FPS:13.0 	 AVG_FPS:12.9
+
+ cvWriteFrame 
+Objects:
+
+Man: 84% 
+Rifle: 49% , Shotgun: 31% 
+
+FPS:12.7 	 AVG_FPS:12.9
+
+ cvWriteFrame 
+Objects:
+
+Man: 53% 
+Rifle: 61% , Shotgun: 37% 
+
+FPS:12.7 	 AVG_FPS:12.9
+
+ cvWriteFrame 
+Objects:
+
+Man: 65% 
+Rifle: 50% , Shotgun: 31% 
+
+FPS:12.8 	 AVG_FPS:12.9
+
+ cvWriteFrame 
+Objects:
+
+Man: 54% 
+Rifle: 52% , Shotgun: 31% 
+
+FPS:12.7 	 AVG_FPS:12.9
+
+ cvWriteFrame 
+Objects:
+
+Man: 66% 
+Rifle: 33% 
+
+FPS:12.6 	 AVG_FPS:12.9
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:12.7 	 AVG_FPS:12.9
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:12.7 	 AVG_FPS:12.9
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:12.9 	 AVG_FPS:12.9
+
+ cvWriteFrame 
+Objects:
+
+Rifle: 41% 
+
+FPS:13.0 	 AVG_FPS:12.9
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:13.0 	 AVG_FPS:12.9
+
+ cvWriteFrame 
+Objects:
+
+Rifle: 57% , Shotgun: 40% 
+
+FPS:13.0 	 AVG_FPS:12.9
+
+ cvWriteFrame 
+Objects:
+
+Rifle: 52% , Shotgun: 42% 
+
+FPS:13.1 	 AVG_FPS:12.9
+
+ cvWriteFrame 
+Objects:
+
+Man: 30% 
+Rifle: 63% , Shotgun: 41% 
+
+FPS:13.2 	 AVG_FPS:12.9
+
+ cvWriteFrame 
+Objects:
+
+Shotgun: 49% 
+Rifle: 49% 
+
+FPS:13.2 	 AVG_FPS:12.9
+
+ cvWriteFrame 
+Objects:
+
+Shotgun: 32% 
+Rifle: 45% 
+
+FPS:13.3 	 AVG_FPS:12.9
+
+ cvWriteFrame 
+Objects:
+
+Man: 42% 
+Rifle: 51% , Shotgun: 39% 
+
+FPS:13.1 	 AVG_FPS:12.9
+
+ cvWriteFrame 
+Objects:
+
+Shotgun: 48% 
+Rifle: 45% 
+
+FPS:12.9 	 AVG_FPS:12.9
+
+ cvWriteFrame 
+Objects:
+
+Shotgun: 50% 
+Rifle: 33% 
+
+FPS:12.7 	 AVG_FPS:12.9
+
+ cvWriteFrame 
+Objects:
+
+Shotgun: 81% 
+
+FPS:12.5 	 AVG_FPS:12.9
+
+ cvWriteFrame 
+Objects:
+
+Shotgun: 87% 
+
+FPS:12.5 	 AVG_FPS:12.9
+
+ cvWriteFrame 
+Objects:
+
+Shotgun: 82% 
+Rifle: 32% 
+
+FPS:12.5 	 AVG_FPS:12.9
+
+ cvWriteFrame 
+Objects:
+
+Shotgun: 85% 
+Rifle: 36% 
+
+FPS:12.4 	 AVG_FPS:12.9
+
+ cvWriteFrame 
+Objects:
+
+Shotgun: 79% 
+
+FPS:12.6 	 AVG_FPS:12.9
+
+ cvWriteFrame 
+Objects:
+
+Shotgun: 83% 
+
+FPS:12.7 	 AVG_FPS:12.9
+
+ cvWriteFrame 
+Objects:
+
+Man: 51% 
+Shotgun: 84% 
+Rifle: 37% 
+
+FPS:12.9 	 AVG_FPS:12.9
+
+ cvWriteFrame 
+Objects:
+
+Shotgun: 87% 
+Rifle: 45% 
+
+FPS:12.6 	 AVG_FPS:12.9
+
+ cvWriteFrame 
+Objects:
+
+Shotgun: 72% 
+
+FPS:12.5 	 AVG_FPS:12.9
+
+ cvWriteFrame 
+Objects:
+
+Man: 54% 
+Rifle: 39% , Shotgun: 78% 
+
+FPS:12.4 	 AVG_FPS:12.9
+
+ cvWriteFrame 
+Objects:
+
+Man: 55% 
+Shotgun: 71% 
+Rifle: 34% 
+
+FPS:12.4 	 AVG_FPS:12.9
+
+ cvWriteFrame 
+Objects:
+
+Man: 57% 
+Shotgun: 59% 
+
+FPS:12.3 	 AVG_FPS:12.9
+
+ cvWriteFrame 
+Objects:
+
+Man: 82% 
+Shotgun: 60% 
+
+FPS:12.3 	 AVG_FPS:12.9
+
+ cvWriteFrame 
+Objects:
+
+Man: 70% 
+Shotgun: 72% 
+
+FPS:12.2 	 AVG_FPS:12.9
+
+ cvWriteFrame 
+Objects:
+
+Man: 81% 
+Shotgun: 65% 
+
+FPS:12.2 	 AVG_FPS:12.9
+
+ cvWriteFrame 
+Objects:
+
+Man: 90% 
+Shotgun: 34% 
+
+FPS:12.3 	 AVG_FPS:12.9
+
+ cvWriteFrame 
+Objects:
+
+Man: 86% 
+Shotgun: 41% 
+
+FPS:12.2 	 AVG_FPS:12.9
+
+ cvWriteFrame 
+Objects:
+
+Man: 88% 
+Shotgun: 59% 
+
+FPS:12.3 	 AVG_FPS:12.9
+
+ cvWriteFrame 
+Objects:
+
+Man: 81% 
+Shotgun: 69% 
+
+FPS:12.2 	 AVG_FPS:12.9
+
+ cvWriteFrame 
+Objects:
+
+Man: 85% 
+Shotgun: 54% 
+
+FPS:12.3 	 AVG_FPS:12.9
+
+ cvWriteFrame 
+Objects:
+
+Man: 70% 
+Shotgun: 57% 
+
+FPS:12.5 	 AVG_FPS:12.9
+
+ cvWriteFrame 
+Objects:
+
+Man: 82% 
+Shotgun: 75% 
+
+FPS:12.2 	 AVG_FPS:12.9
+
+ cvWriteFrame 
+Objects:
+
+Man: 82% 
+Shotgun: 68% 
+
+FPS:12.1 	 AVG_FPS:12.9
+
+ cvWriteFrame 
+Objects:
+
+Man: 75% 
+Shotgun: 68% 
+
+FPS:12.2 	 AVG_FPS:12.9
+
+ cvWriteFrame 
+Objects:
+
+Man: 82% 
+Shotgun: 69% 
+
+FPS:12.1 	 AVG_FPS:12.9
+
+ cvWriteFrame 
+Objects:
+
+Man: 84% 
+Shotgun: 49% 
+
+FPS:12.1 	 AVG_FPS:12.9
+
+ cvWriteFrame 
+Objects:
+
+Man: 71% 
+Shotgun: 76% 
+
+FPS:12.0 	 AVG_FPS:12.9
+
+ cvWriteFrame 
+Objects:
+
+Man: 66% 
+Rifle: 35% , Shotgun: 85% 
+
+FPS:12.1 	 AVG_FPS:12.9
+
+ cvWriteFrame 
+Objects:
+
+Man: 61% 
+Shotgun: 82% 
+
+FPS:12.0 	 AVG_FPS:12.1
+
+ cvWriteFrame 
+Objects:
+
+Man: 80% 
+Shotgun: 79% 
+
+FPS:12.1 	 AVG_FPS:12.1
+
+ cvWriteFrame 
+Objects:
+
+Man: 59% 
+Rifle: 31% , Shotgun: 84% 
+
+FPS:12.1 	 AVG_FPS:12.1
+
+ cvWriteFrame 
+Objects:
+
+Man: 47% 
+Shotgun: 83% 
+
+FPS:12.2 	 AVG_FPS:12.1
+
+ cvWriteFrame 
+Objects:
+
+Man: 47% 
+Shotgun: 84% 
+
+FPS:12.3 	 AVG_FPS:12.1
+
+ cvWriteFrame 
+Objects:
+
+Man: 30% 
+Shotgun: 75% 
+
+FPS:12.2 	 AVG_FPS:12.1
+
+ cvWriteFrame 
+Objects:
+
+Man: 35% 
+Rifle: 36% , Shotgun: 82% 
+
+FPS:12.3 	 AVG_FPS:12.1
+
+ cvWriteFrame 
+Objects:
+
+Rifle: 36% , Shotgun: 76% 
+
+FPS:12.3 	 AVG_FPS:12.1
+
+ cvWriteFrame 
+Objects:
+
+Man: 50% 
+Rifle: 50% , Shotgun: 81% 
+
+FPS:12.1 	 AVG_FPS:12.1
+
+ cvWriteFrame 
+Objects:
+
+Man: 56% 
+Rifle: 59% , Shotgun: 76% 
+
+FPS:12.1 	 AVG_FPS:12.1
+
+ cvWriteFrame 
+Objects:
+
+Man: 51% 
+Rifle: 60% , Shotgun: 78% 
+
+FPS:12.3 	 AVG_FPS:12.1
+
+ cvWriteFrame 
+Objects:
+
+Man: 61% 
+Rifle: 44% , Shotgun: 77% 
+
+FPS:12.3 	 AVG_FPS:12.1
+
+ cvWriteFrame 
+Objects:
+
+Man: 61% 
+Shotgun: 77% 
+Rifle: 36% 
+Shotgun: 50% 
+
+FPS:12.4 	 AVG_FPS:12.1
+
+ cvWriteFrame 
+Objects:
+
+Man: 52% 
+Rifle: 37% , Shotgun: 77% 
+
+FPS:12.3 	 AVG_FPS:12.1
+
+ cvWriteFrame 
+Objects:
+
+Man: 31% 
+Rifle: 33% , Shotgun: 86% 
+
+FPS:12.4 	 AVG_FPS:12.1
+
+ cvWriteFrame 
+Objects:
+
+Man: 37% 
+Rifle: 37% , Shotgun: 84% 
+
+FPS:12.5 	 AVG_FPS:12.1
+
+ cvWriteFrame 
+Objects:
+
+Man: 56% 
+Rifle: 32% , Shotgun: 79% 
+Shotgun: 36% 
+
+FPS:12.5 	 AVG_FPS:12.1
+
+ cvWriteFrame 
+Objects:
+
+Man: 48% 
+Shotgun: 75% 
+Shotgun: 53% 
+
+FPS:12.4 	 AVG_FPS:12.1
+
+ cvWriteFrame 
+Objects:
+
+Man: 50% 
+Shotgun: 82% 
+Shotgun: 33% 
+
+FPS:12.2 	 AVG_FPS:12.1
+
+ cvWriteFrame 
+Objects:
+
+Man: 54% 
+Shotgun: 70% 
+
+FPS:12.3 	 AVG_FPS:12.1
+
+ cvWriteFrame 
+Objects:
+
+Man: 58% 
+Shotgun: 64% 
+
+FPS:12.3 	 AVG_FPS:12.1
+
+ cvWriteFrame 
+Objects:
+
+Shotgun: 57% 
+Shotgun: 45% 
+
+FPS:12.4 	 AVG_FPS:12.1
+
+ cvWriteFrame 
+Objects:
+
+Shotgun: 56% 
+
+FPS:12.4 	 AVG_FPS:12.1
+
+ cvWriteFrame 
+Objects:
+
+Man: 42% 
+Shotgun: 33% 
+
+FPS:12.6 	 AVG_FPS:12.1
+
+ cvWriteFrame 
+Objects:
+
+Man: 48% 
+
+FPS:12.7 	 AVG_FPS:12.1
+
+ cvWriteFrame 
+Objects:
+
+Man: 65% 
+
+FPS:12.8 	 AVG_FPS:12.1
+
+ cvWriteFrame 
+Objects:
+
+Man: 51% 
+
+FPS:12.9 	 AVG_FPS:12.1
+
+ cvWriteFrame 
+Objects:
+
+Man: 52% 
+
+FPS:13.0 	 AVG_FPS:12.1
+
+ cvWriteFrame 
+Objects:
+
+Man: 77% 
+
+FPS:12.8 	 AVG_FPS:12.1
+
+ cvWriteFrame 
+Objects:
+
+Man: 73% 
+
+FPS:12.8 	 AVG_FPS:12.1
+
+ cvWriteFrame 
+Objects:
+
+Man: 59% 
+
+FPS:12.7 	 AVG_FPS:12.1
+
+ cvWriteFrame 
+Objects:
+
+Man: 66% 
+
+FPS:12.6 	 AVG_FPS:12.1
+
+ cvWriteFrame 
+Objects:
+
+Man: 56% 
+
+FPS:12.4 	 AVG_FPS:12.1
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:12.6 	 AVG_FPS:12.1
+
+ cvWriteFrame 
+Objects:
+
+Man: 35% 
+Rifle: 40% 
+
+FPS:12.5 	 AVG_FPS:12.1
+
+ cvWriteFrame 
+Objects:
+
+Shotgun: 40% 
+Rifle: 45% 
+
+FPS:12.4 	 AVG_FPS:12.1
+
+ cvWriteFrame 
+Objects:
+
+Rifle: 37% 
+
+FPS:12.2 	 AVG_FPS:12.1
+
+ cvWriteFrame 
+Objects:
+
+Man: 39% 
+
+FPS:12.3 	 AVG_FPS:12.1
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:12.5 	 AVG_FPS:12.4
+
+ cvWriteFrame 
+Objects:
+
+Shotgun: 34% 
+Rifle: 33% 
+
+FPS:12.6 	 AVG_FPS:12.4
+
+ cvWriteFrame 
+Objects:
+
+Rifle: 31% 
+
+FPS:12.6 	 AVG_FPS:12.4
+
+ cvWriteFrame 
+Objects:
+
+Man: 31% 
+Shotgun: 33% 
+
+FPS:12.6 	 AVG_FPS:12.4
+
+ cvWriteFrame 
+Objects:
+
+Man: 34% 
+
+FPS:12.5 	 AVG_FPS:12.4
+
+ cvWriteFrame 
+Objects:
+
+Man: 33% 
+
+FPS:12.5 	 AVG_FPS:12.4
+
+ cvWriteFrame 
+Objects:
+
+Man: 48% 
+Rifle: 31% 
+
+FPS:12.7 	 AVG_FPS:12.4
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:12.6 	 AVG_FPS:12.4
+
+ cvWriteFrame 
+Objects:
+
+Man: 65% 
+Man: 49% 
+
+FPS:12.5 	 AVG_FPS:12.4
+
+ cvWriteFrame 
+Objects:
+
+Man: 47% 
+
+FPS:12.5 	 AVG_FPS:12.4
+
+ cvWriteFrame 
+Objects:
+
+Rifle: 36% 
+
+FPS:12.4 	 AVG_FPS:12.4
+
+ cvWriteFrame 
+Objects:
+
+Rifle: 43% 
+
+FPS:12.6 	 AVG_FPS:12.4
+
+ cvWriteFrame 
+Objects:
+
+Rifle: 39% 
+
+FPS:12.8 	 AVG_FPS:12.4
+
+ cvWriteFrame 
+Objects:
+
+Rifle: 56% 
+
+FPS:12.7 	 AVG_FPS:12.4
+
+ cvWriteFrame 
+Objects:
+
+Man: 31% 
+Rifle: 44% 
+
+FPS:12.6 	 AVG_FPS:12.4
+
+ cvWriteFrame 
+Objects:
+
+Man: 41% 
+Rifle: 44% 
+
+FPS:12.7 	 AVG_FPS:12.4
+
+ cvWriteFrame 
+Objects:
+
+Rifle: 55% 
+
+FPS:12.7 	 AVG_FPS:12.4
+
+ cvWriteFrame 
+Objects:
+
+Rifle: 46% 
+
+FPS:12.8 	 AVG_FPS:12.4
+
+ cvWriteFrame 
+Objects:
+
+Rifle: 53% 
+
+FPS:12.7 	 AVG_FPS:12.4
+
+ cvWriteFrame 
+Objects:
+
+Rifle: 37% 
+
+FPS:12.5 	 AVG_FPS:12.4
+
+ cvWriteFrame 
+Objects:
+
+Rifle: 47% 
+
+FPS:12.5 	 AVG_FPS:12.4
+
+ cvWriteFrame 
+Objects:
+
+Rifle: 33% 
+
+FPS:12.6 	 AVG_FPS:12.4
+
+ cvWriteFrame 
+Objects:
+
+Man: 48% 
+
+FPS:12.5 	 AVG_FPS:12.4
+
+ cvWriteFrame 
+Objects:
+
+Rifle: 32% 
+
+FPS:12.3 	 AVG_FPS:12.4
+
+ cvWriteFrame 
+Objects:
+
+Man: 68% 
+
+FPS:12.3 	 AVG_FPS:12.4
+
+ cvWriteFrame 
+Objects:
+
+Man: 33% 
+
+FPS:12.6 	 AVG_FPS:12.4
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:12.7 	 AVG_FPS:12.4
+
+ cvWriteFrame 
+Objects:
+
+Shotgun: 45% 
+Rifle: 59% 
+
+FPS:12.6 	 AVG_FPS:12.4
+
+ cvWriteFrame 
+Objects:
+
+Shotgun: 46% 
+Rifle: 68% 
+
+FPS:12.5 	 AVG_FPS:12.4
+
+ cvWriteFrame 
+Objects:
+
+Shotgun: 53% 
+Rifle: 67% 
+
+FPS:12.5 	 AVG_FPS:12.4
+
+ cvWriteFrame 
+Objects:
+
+Shotgun: 61% 
+Rifle: 75% 
+
+FPS:12.6 	 AVG_FPS:12.4
+
+ cvWriteFrame 
+Objects:
+
+Shotgun: 51% 
+Rifle: 66% 
+
+FPS:12.6 	 AVG_FPS:12.4
+
+ cvWriteFrame 
+Objects:
+
+Shotgun: 50% 
+Rifle: 63% 
+
+FPS:12.6 	 AVG_FPS:12.4
+
+ cvWriteFrame 
+Objects:
+
+Shotgun: 33% 
+Rifle: 64% 
+
+FPS:12.6 	 AVG_FPS:12.4
+
+ cvWriteFrame 
+Objects:
+
+Rifle: 74% 
+
+FPS:12.6 	 AVG_FPS:12.4
+
+ cvWriteFrame 
+Objects:
+
+Rifle: 77% 
+
+FPS:12.4 	 AVG_FPS:12.4
+
+ cvWriteFrame 
+Objects:
+
+Rifle: 75% 
+
+FPS:12.5 	 AVG_FPS:12.4
+
+ cvWriteFrame 
+Objects:
+
+Rifle: 78% 
+
+FPS:12.4 	 AVG_FPS:12.4
+
+ cvWriteFrame 
+Objects:
+
+Shotgun: 34% 
+Rifle: 71% 
+
+FPS:12.5 	 AVG_FPS:12.5
+
+ cvWriteFrame 
+Objects:
+
+Rifle: 71% , Shotgun: 44% 
+
+FPS:12.6 	 AVG_FPS:12.5
+
+ cvWriteFrame 
+Objects:
+
+Rifle: 63% 
+
+FPS:12.6 	 AVG_FPS:12.5
+
+ cvWriteFrame 
+Objects:
+
+Shotgun: 35% 
+Rifle: 78% 
+
+FPS:12.7 	 AVG_FPS:12.5
+
+ cvWriteFrame 
+Objects:
+
+Man: 33% 
+Rifle: 62% 
+
+FPS:12.6 	 AVG_FPS:12.5
+
+ cvWriteFrame 
+Objects:
+
+Rifle: 61% 
+
+FPS:12.4 	 AVG_FPS:12.5
+
+ cvWriteFrame 
+Objects:
+
+Man: 30% 
+Shotgun: 35% 
+Rifle: 57% 
+
+FPS:12.2 	 AVG_FPS:12.5
+
+ cvWriteFrame 
+Objects:
+
+Man: 34% 
+Rifle: 49% , Shotgun: 39% 
+
+FPS:12.0 	 AVG_FPS:12.5
+
+ cvWriteFrame 
+Objects:
+
+Shotgun: 52% 
+Rifle: 49% 
+
+FPS:12.2 	 AVG_FPS:12.5
+
+ cvWriteFrame 
+Objects:
+
+Rifle: 39% , Shotgun: 53% 
+
+FPS:12.3 	 AVG_FPS:12.5
+
+ cvWriteFrame 
+Objects:
+
+Man: 38% 
+Shotgun: 53% 
+Rifle: 36% 
+
+FPS:12.3 	 AVG_FPS:12.5
+
+ cvWriteFrame 
+Objects:
+
+Man: 51% 
+Shotgun: 44% 
+
+FPS:12.2 	 AVG_FPS:12.5
+
+ cvWriteFrame 
+Objects:
+
+Man: 82% 
+
+FPS:12.2 	 AVG_FPS:12.5
+
+ cvWriteFrame 
+Objects:
+
+Man: 87% 
+
+FPS:11.8 	 AVG_FPS:12.5
+
+ cvWriteFrame 
+Objects:
+
+Man: 86% 
+
+FPS:11.6 	 AVG_FPS:12.5
+
+ cvWriteFrame 
+Objects:
+
+Man: 90% 
+Shotgun: 30% 
+
+FPS:11.9 	 AVG_FPS:12.5
+
+ cvWriteFrame 
+Objects:
+
+Man: 86% 
+Shotgun: 45% 
+
+FPS:11.9 	 AVG_FPS:12.5
+
+ cvWriteFrame 
+Objects:
+
+Man: 83% 
+Rifle: 34% , Shotgun: 68% 
+
+FPS:11.6 	 AVG_FPS:12.5
+
+ cvWriteFrame 
+Objects:
+
+Man: 89% 
+Shotgun: 72% 
+Rifle: 33% 
+
+FPS:11.3 	 AVG_FPS:12.5
+
+ cvWriteFrame 
+Objects:
+
+Man: 78% 
+Shotgun: 66% 
+
+FPS:11.5 	 AVG_FPS:12.5
+
+ cvWriteFrame 
+Objects:
+
+Man: 89% 
+Shotgun: 61% 
+
+FPS:11.8 	 AVG_FPS:12.5
+
+ cvWriteFrame 
+Objects:
+
+Man: 69% 
+Shotgun: 79% 
+Rifle: 35% 
+
+FPS:11.7 	 AVG_FPS:12.5
+
+ cvWriteFrame 
+Objects:
+
+Man: 87% 
+Shotgun: 71% 
+
+FPS:11.6 	 AVG_FPS:12.5
+
+ cvWriteFrame 
+Objects:
+
+Man: 93% 
+
+FPS:11.4 	 AVG_FPS:12.5
+
+ cvWriteFrame 
+Objects:
+
+Man: 93% 
+
+FPS:11.4 	 AVG_FPS:12.5
+
+ cvWriteFrame 
+Objects:
+
+Man: 92% 
+
+FPS:11.6 	 AVG_FPS:12.5
+
+ cvWriteFrame 
+Objects:
+
+Man: 96% 
+
+FPS:11.6 	 AVG_FPS:12.5
+
+ cvWriteFrame 
+Objects:
+
+Man: 94% 
+
+FPS:11.8 	 AVG_FPS:12.5
+
+ cvWriteFrame 
+Objects:
+
+Man: 93% 
+
+FPS:12.1 	 AVG_FPS:12.5
+
+ cvWriteFrame 
+Objects:
+
+Man: 92% 
+
+FPS:11.9 	 AVG_FPS:12.5
+
+ cvWriteFrame 
+Objects:
+
+Man: 93% 
+
+FPS:11.9 	 AVG_FPS:12.5
+
+ cvWriteFrame 
+Objects:
+
+Man: 87% 
+
+FPS:11.8 	 AVG_FPS:12.5
+
+ cvWriteFrame 
+Objects:
+
+Man: 69% 
+
+FPS:11.7 	 AVG_FPS:12.5
+
+ cvWriteFrame 
+Objects:
+
+Man: 71% 
+
+FPS:11.8 	 AVG_FPS:12.5
+
+ cvWriteFrame 
+Objects:
+
+Man: 63% 
+
+FPS:11.8 	 AVG_FPS:12.5
+
+ cvWriteFrame 
+Objects:
+
+Man: 41% 
+
+FPS:12.1 	 AVG_FPS:11.6
+
+ cvWriteFrame 
+Objects:
+
+Rifle: 66% 
+
+FPS:12.2 	 AVG_FPS:11.6
+
+ cvWriteFrame 
+Objects:
+
+Shotgun: 42% 
+Rifle: 60% 
+
+FPS:12.4 	 AVG_FPS:11.6
+
+ cvWriteFrame 
+Objects:
+
+Shotgun: 67% 
+Rifle: 69% 
+
+FPS:12.2 	 AVG_FPS:11.6
+
+ cvWriteFrame 
+Objects:
+
+Shotgun: 60% 
+
+FPS:11.9 	 AVG_FPS:11.6
+
+ cvWriteFrame 
+Objects:
+
+Shotgun: 78% 
+
+FPS:11.9 	 AVG_FPS:11.6
+
+ cvWriteFrame 
+Objects:
+
+Shotgun: 90% 
+
+FPS:12.1 	 AVG_FPS:11.6
+
+ cvWriteFrame 
+Objects:
+
+Rifle: 34% , Shotgun: 85% 
+
+FPS:11.9 	 AVG_FPS:11.6
+
+ cvWriteFrame 
+Objects:
+
+Rifle: 53% , Shotgun: 86% 
+
+FPS:11.9 	 AVG_FPS:11.6
+
+ cvWriteFrame 
+Objects:
+
+Rifle: 38% , Shotgun: 86% 
+
+FPS:12.2 	 AVG_FPS:11.6
+
+ cvWriteFrame 
+Objects:
+
+Man: 36% 
+Rifle: 43% , Shotgun: 83% 
+
+FPS:12.1 	 AVG_FPS:11.6
+
+ cvWriteFrame 
+Objects:
+
+Man: 46% 
+Rifle: 46% , Shotgun: 82% 
+
+FPS:12.0 	 AVG_FPS:11.6
+
+ cvWriteFrame 
+Objects:
+
+Man: 42% 
+Rifle: 36% , Shotgun: 84% 
+
+FPS:12.0 	 AVG_FPS:11.6
+
+ cvWriteFrame 
+Objects:
+
+Man: 48% 
+Rifle: 41% , Shotgun: 81% 
+
+FPS:12.0 	 AVG_FPS:11.6
+
+ cvWriteFrame 
+Objects:
+
+Man: 73% 
+Rifle: 32% , Shotgun: 84% 
+
+FPS:11.8 	 AVG_FPS:11.6
+
+ cvWriteFrame 
+Objects:
+
+Man: 73% 
+Rifle: 36% , Shotgun: 80% 
+
+FPS:11.9 	 AVG_FPS:11.6
+
+ cvWriteFrame 
+Objects:
+
+Man: 42% 
+Rifle: 31% , Shotgun: 73% 
+
+FPS:11.6 	 AVG_FPS:11.6
+
+ cvWriteFrame 
+Objects:
+
+Man: 59% 
+Shotgun: 77% 
+
+FPS:11.7 	 AVG_FPS:11.6
+
+ cvWriteFrame 
+Objects:
+
+Man: 69% 
+Shotgun: 81% 
+
+FPS:11.7 	 AVG_FPS:11.6
+
+ cvWriteFrame 
+Objects:
+
+Man: 84% 
+Shotgun: 79% 
+
+FPS:11.7 	 AVG_FPS:11.6
+
+ cvWriteFrame 
+Objects:
+
+Man: 62% 
+Shotgun: 86% 
+
+FPS:11.8 	 AVG_FPS:11.6
+
+ cvWriteFrame 
+Objects:
+
+Man: 78% 
+Shotgun: 84% 
+
+FPS:11.7 	 AVG_FPS:11.6
+
+ cvWriteFrame 
+Objects:
+
+Man: 76% 
+Shotgun: 79% 
+
+FPS:11.9 	 AVG_FPS:11.6
+
+ cvWriteFrame 
+Objects:
+
+Man: 55% 
+Shotgun: 79% 
+
+FPS:11.8 	 AVG_FPS:11.6
+
+ cvWriteFrame 
+Objects:
+
+Man: 51% 
+Shotgun: 76% 
+
+FPS:11.7 	 AVG_FPS:11.6
+
+ cvWriteFrame 
+Objects:
+
+Man: 49% 
+Shotgun: 77% 
+
+FPS:12.0 	 AVG_FPS:11.6
+
+ cvWriteFrame 
+Objects:
+
+Man: 45% 
+Shotgun: 73% 
+
+FPS:11.9 	 AVG_FPS:11.6
+
+ cvWriteFrame 
+Objects:
+
+Man: 37% 
+Shotgun: 76% 
+
+FPS:12.0 	 AVG_FPS:11.6
+
+ cvWriteFrame 
+Objects:
+
+Man: 72% 
+Rifle: 43% , Shotgun: 76% 
+
+FPS:12.0 	 AVG_FPS:11.6
+
+ cvWriteFrame 
+Objects:
+
+Man: 82% 
+Rifle: 41% , Shotgun: 67% 
+
+FPS:12.1 	 AVG_FPS:11.6
+
+ cvWriteFrame 
+Objects:
+
+Man: 94% 
+Shotgun: 77% 
+
+FPS:12.3 	 AVG_FPS:11.6
+
+ cvWriteFrame 
+Objects:
+
+Man: 93% 
+Rifle: 40% , Shotgun: 77% 
+
+FPS:12.5 	 AVG_FPS:11.6
+
+ cvWriteFrame 
+Objects:
+
+Man: 94% 
+Rifle: 59% , Shotgun: 79% 
+
+FPS:12.3 	 AVG_FPS:11.6
+
+ cvWriteFrame 
+Objects:
+
+Man: 95% 
+Rifle: 63% , Shotgun: 82% 
+
+FPS:12.3 	 AVG_FPS:11.6
+
+ cvWriteFrame 
+Objects:
+
+Man: 92% 
+Rifle: 49% , Shotgun: 87% 
+
+FPS:12.1 	 AVG_FPS:11.6
+
+ cvWriteFrame 
+Objects:
+
+Man: 94% 
+Rifle: 41% , Shotgun: 81% 
+
+FPS:12.0 	 AVG_FPS:11.6
+
+ cvWriteFrame 
+Objects:
+
+Man: 95% 
+Rifle: 38% , Shotgun: 73% 
+
+FPS:12.1 	 AVG_FPS:11.8
+
+ cvWriteFrame 
+Objects:
+
+Man: 95% 
+Shotgun: 80% 
+
+FPS:11.9 	 AVG_FPS:11.8
+
+ cvWriteFrame 
+Objects:
+
+Man: 96% 
+Rifle: 33% , Shotgun: 76% 
+
+FPS:11.8 	 AVG_FPS:11.8
+
+ cvWriteFrame 
+Objects:
+
+Man: 88% 
+Shotgun: 68% 
+
+FPS:11.8 	 AVG_FPS:11.8
+
+ cvWriteFrame 
+Objects:
+
+Man: 90% 
+Shotgun: 67% 
+
+FPS:12.0 	 AVG_FPS:11.8
+
+ cvWriteFrame 
+Objects:
+
+Man: 91% 
+Shotgun: 59% 
+
+FPS:11.9 	 AVG_FPS:11.8
+
+ cvWriteFrame 
+Objects:
+
+Man: 87% 
+Shotgun: 72% 
+
+FPS:11.7 	 AVG_FPS:11.8
+
+ cvWriteFrame 
+Objects:
+
+Man: 89% 
+Rifle: 34% , Shotgun: 65% 
+
+FPS:12.0 	 AVG_FPS:11.8
+
+ cvWriteFrame 
+Objects:
+
+Man: 93% 
+Rifle: 33% , Shotgun: 62% 
+
+FPS:12.2 	 AVG_FPS:11.8
+
+ cvWriteFrame 
+Objects:
+
+Man: 93% 
+Rifle: 33% , Shotgun: 69% 
+
+FPS:12.1 	 AVG_FPS:11.8
+
+ cvWriteFrame 
+Objects:
+
+Man: 92% 
+Rifle: 56% , Shotgun: 70% 
+
+FPS:12.2 	 AVG_FPS:11.8
+
+ cvWriteFrame 
+Objects:
+
+Man: 94% 
+Rifle: 59% , Shotgun: 74% 
+
+FPS:12.4 	 AVG_FPS:11.8
+
+ cvWriteFrame 
+Objects:
+
+Man: 91% 
+Rifle: 52% , Shotgun: 81% 
+
+FPS:12.4 	 AVG_FPS:11.8
+
+ cvWriteFrame 
+Objects:
+
+Man: 90% 
+Rifle: 50% , Shotgun: 86% 
+
+FPS:12.5 	 AVG_FPS:11.8
+
+ cvWriteFrame 
+Objects:
+
+Man: 88% 
+Rifle: 50% , Shotgun: 87% 
+
+FPS:12.4 	 AVG_FPS:11.8
+
+ cvWriteFrame 
+Objects:
+
+Man: 81% 
+Rifle: 58% , Shotgun: 87% 
+
+FPS:12.6 	 AVG_FPS:11.8
+
+ cvWriteFrame 
+Objects:
+
+Man: 79% 
+Rifle: 57% , Shotgun: 83% 
+
+FPS:12.7 	 AVG_FPS:11.8
+
+ cvWriteFrame 
+Objects:
+
+Man: 84% 
+Rifle: 62% , Shotgun: 84% 
+
+FPS:12.6 	 AVG_FPS:11.8
+
+ cvWriteFrame 
+Objects:
+
+Man: 66% 
+Rifle: 59% , Shotgun: 86% 
+
+FPS:12.6 	 AVG_FPS:11.8
+
+ cvWriteFrame 
+Objects:
+
+Man: 69% 
+Rifle: 52% , Shotgun: 85% 
+
+FPS:12.4 	 AVG_FPS:11.8
+
+ cvWriteFrame 
+Objects:
+
+Man: 61% 
+Rifle: 55% , Shotgun: 87% 
+
+FPS:12.4 	 AVG_FPS:11.8
+
+ cvWriteFrame 
+Objects:
+
+Man: 58% 
+Rifle: 59% , Shotgun: 86% 
+
+FPS:12.2 	 AVG_FPS:11.8
+
+ cvWriteFrame 
+Objects:
+
+Man: 60% 
+Rifle: 52% , Shotgun: 90% 
+
+FPS:12.1 	 AVG_FPS:11.8
+
+ cvWriteFrame 
+Objects:
+
+Man: 62% 
+Rifle: 41% , Shotgun: 90% 
+
+FPS:12.1 	 AVG_FPS:11.8
+
+ cvWriteFrame 
+Objects:
+
+Man: 66% 
+Rifle: 55% , Shotgun: 90% 
+
+FPS:11.9 	 AVG_FPS:11.8
+
+ cvWriteFrame 
+Objects:
+
+Man: 66% 
+Rifle: 69% , Shotgun: 89% 
+
+FPS:11.7 	 AVG_FPS:11.8
+
+ cvWriteFrame 
+Objects:
+
+Man: 53% 
+Rifle: 59% , Shotgun: 90% 
+
+FPS:11.8 	 AVG_FPS:11.8
+
+ cvWriteFrame 
+Objects:
+
+Man: 60% 
+Rifle: 69% , Shotgun: 90% 
+
+FPS:12.1 	 AVG_FPS:11.8
+
+ cvWriteFrame 
+Objects:
+
+Man: 41% 
+Rifle: 67% , Shotgun: 90% 
+
+FPS:12.2 	 AVG_FPS:11.8
+
+ cvWriteFrame 
+Objects:
+
+Man: 55% 
+Stream closed.
+Rifle: 75% , Shotgun: 88% 
+
+FPS:12.3 	 AVG_FPS:11.8
+
+ cvWriteFrame 
+input video stream closed. 
+ closing... closed!output_video_writer closed.
